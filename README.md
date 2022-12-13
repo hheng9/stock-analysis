@@ -13,6 +13,7 @@
 - The advantages of refactoring the codes index, array, loops, and format is to compile the data needed and have the information process more efficiently.
 - The cons of refactoring the original VBA script is that the code becomes more complex and more difficult to comprehend. The pros for refactoring the original VBA script is receiving more automated information and more organized data for the required conclusion.
 
+
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207214830-b023659e-2aff-4e57-8830-03a00800d504.png)
 
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207214846-1d111f3f-6598-4192-b352-9fc5adfb9084.png)
