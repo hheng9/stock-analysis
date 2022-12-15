@@ -11,28 +11,20 @@
 ## Stock Performance Between 2017 and 2018
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207748628-a24ee3c0-7c89-4767-be64-25c616e506f0.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207748643-a60f7747-82f7-4429-a1bf-5cda2650789c.png)
 
-### The execution times for 2017 & 2018 came out slightly faster after refactoring the original code and restructering each line item.
+## Execution Times
+### The execution times for 2017 & 2018 came out slightly faster after refactoring the original code and restructering each line item. As seen in the image below the original execution time for 2017 came in at 0.7265 and 2018 came in at 0.7578.
 
 ![Original VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751258-9d0eafed-89d7-426e-aa2c-5066646ef573.png)![Original VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751279-eba39c97-1bd9-43a6-9d3f-59502189406e.png)
 
-### 
+### After refactoring the code as seen in the images below the 2017 came in at 0.1328 and 2018 at 0.1171 showing the efficiency of how fast the new code genrate results.
 
 ![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751335-6b8aa068-7f47-45ee-8e3c-a81ee3bcdf7d.png)![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751345-8ec64566-80d2-427a-88a7-716ede8917db.png)
-
-
-
 
 
 ## Summary 
 
 - The advantages of refactoring the codes index, array, loops, and format is to have the code compile the data needed and process the information more efficiently.
 - The cons of refactoring the original VBA script is that the code becomes more complex and more difficult to comprehend during execution which can create more frustration. The pros for refactoring the original VBA script is receiving more automated information and more organized data for the required conclusion.
-
-## Execution Times
-
-![2017](https://user-images.githubusercontent.com/118647523/207214858-e1293e66-254e-45fa-9a21-f1659a019046.png)
-
-![2018](https://user-images.githubusercontent.com/118647523/207214869-6519bd8f-2e74-495a-9492-941371f3ac4f.png)
 
 ## Refactored Script 
 
