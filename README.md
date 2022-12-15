@@ -2,11 +2,11 @@
 
 ## Overview of Project 
 
-### The prupose of this analysis was to help Steve analyze the stock data his parents invested into. We used Microsoft VBA tool to create, edit, alter, and fine tune code to properly run macros for the correct data needed.
+### The prupose of this analysis was to help Steve analyze the stock data his parents were interested in investing into. We used Microsoft VBA tool to create, edit, alter, and fine tune code to properly run macros to generate the correct data needed. We wanted to analyze 12 specifics stocks to gather their total volume of gains or loss from the beginning of the year to the end of the year. 
 
 ## Results
 
-### The 2017 return had a more positive outcome for all the assigned tickers whereas the 2018 total daily volume had a more negative return percentage. The execution times came out slightly faster after refactoring the original code and restructering each line item.
+### The 2017 return had a more positive outcome for all the assigned stock tickers except for TERP which show a negative return percentage. The 2018 return did poorly for mostly all stock tickers coming in at a negative return except for ENPH & RUN tickers coming in above 80%. The execution times came out slightly faster after refactoring the original code and restructering each line item.
 
 ## Stock Performance Between 2017 and 2018
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207748628-a24ee3c0-7c89-4767-be64-25c616e506f0.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207748643-a60f7747-82f7-4429-a1bf-5cda2650789c.png)
