@@ -6,10 +6,22 @@
 
 ## Results
 
-### The 2017 return had a more positive outcome for all the assigned stock tickers except for TERP which show a negative return percentage. The 2018 return did poorly for mostly all stock tickers coming in at a negative return except for ENPH & RUN tickers coming in above 80%. The execution times came out slightly faster after refactoring the original code and restructering each line item.
+### The 2017 return had a more positive outcome for all the assigned stock tickers except for TERP which show a negative return percentage. The 2018 return did poorly for mostly all stock tickers coming in at a negative return except for ENPH & RUN tickers coming in above 80%. 
 
 ## Stock Performance Between 2017 and 2018
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207748628-a24ee3c0-7c89-4767-be64-25c616e506f0.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207748643-a60f7747-82f7-4429-a1bf-5cda2650789c.png)
+
+### The execution times for 2017 & 2018 came out slightly faster after refactoring the original code and restructering each line item.
+
+![Original VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751258-9d0eafed-89d7-426e-aa2c-5066646ef573.png)![Original VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751279-eba39c97-1bd9-43a6-9d3f-59502189406e.png)
+
+### 
+
+![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751335-6b8aa068-7f47-45ee-8e3c-a81ee3bcdf7d.png)![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751345-8ec64566-80d2-427a-88a7-716ede8917db.png)
+
+
+
+
 
 ## Summary 
 
