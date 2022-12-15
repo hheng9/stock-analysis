@@ -8,15 +8,13 @@
 
 ### The 2017 return had a more positive outcome for all the assigned tickers whereas the 2018 total daily volume had a more negative return percentage. The execution times came out slightly faster after refactoring the original code and restructering each line item.
 
+## Stock Performance Between 2017 and 2018
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207748628-a24ee3c0-7c89-4767-be64-25c616e506f0.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207748643-a60f7747-82f7-4429-a1bf-5cda2650789c.png)
+
 ## Summary 
 
 - The advantages of refactoring the codes index, array, loops, and format is to have the code compile the data needed and process the information more efficiently.
 - The cons of refactoring the original VBA script is that the code becomes more complex and more difficult to comprehend during execution which can create more frustration. The pros for refactoring the original VBA script is receiving more automated information and more organized data for the required conclusion.
-
-## Stock Performance Between 2017 and 2018
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/118647523/207214830-b023659e-2aff-4e57-8830-03a00800d504.png)
-
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/118647523/207214846-1d111f3f-6598-4192-b352-9fc5adfb9084.png)
 
 ## Execution Times
 
