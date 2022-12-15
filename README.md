@@ -16,7 +16,7 @@
 
 ![Original VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751258-9d0eafed-89d7-426e-aa2c-5066646ef573.png)![Original VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751279-eba39c97-1bd9-43a6-9d3f-59502189406e.png)
 
-### After refactoring the code as seen in the images below the 2017 came in at 0.1328 and 2018 at 0.1171 showing the efficiency of how fast the new code genrate results.
+### After refactoring the code as seen in the images below the 2017 came in at 0.1328 and 2018 at 0.1171 showing the efficiency of how much faster the new code can generate results.
 
 ![VBA_Challenge_2017 png](https://user-images.githubusercontent.com/118647523/207751335-6b8aa068-7f47-45ee-8e3c-a81ee3bcdf7d.png)![VBA_Challenge_2018 png](https://user-images.githubusercontent.com/118647523/207751345-8ec64566-80d2-427a-88a7-716ede8917db.png)
 
